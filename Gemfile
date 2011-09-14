@@ -17,6 +17,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
+gem 'paperclip', '~> 2.4.0'
 
 # Use unicorn as the web server
 # gem 'unicorn'
